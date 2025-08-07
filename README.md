@@ -10,11 +10,6 @@ An e-commerce web application that enables users to browse products, manage a sh
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Configuration](#configuration)  
-- [Project Structure](#project-structure)  
-- [Example Code Snippets](#example-code-snippets)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
 
 ## Project Overview
 
