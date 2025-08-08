@@ -35,20 +35,20 @@ The E-Commerce App is designed to offer a smooth online shopping experience. Use
 
 ## Installation
 
-``bash
+```bash
 git clone https://github.com/princepatel4423d/e-commerce-app.git
 cd e-commerce-app
 npm install
-``
+```
 
 
 ## Usage
 
 Start the backend server:
 
-``bash
+```bash
 npm run backend
-``
+```
 Start the frontend app (if separate):
 
 npm run frontend
@@ -63,11 +63,8 @@ http://localhost:3000
 
 Create a `.env` file in the root directory for environment variables:
 
-``bash
+```bash
 PORT=3000
 DB_URI=mongodb://localhost:27017/ecommerce
 JWT_SECRET=your_jwt_secret_key
-``
-
-Clone the repository and install dependencies:
-
+```
